@@ -1,13 +1,13 @@
 {
   "name": "portableweb",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Installs the PortableWeb CLI. Alias for @portableweb/cli.",
   "bin": {
     "pweb": "bin/pweb.js",
     "portableweb": "bin/pweb.js"
   },
   "dependencies": {
-    "@portableweb/cli": "^0.1.0"
+    "@portableweb/cli": "^0.2.0"
   },
   "keywords": ["portableweb", "pweb", "cli"],
   "author": "Omprakash Selvaraj",
